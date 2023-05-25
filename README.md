@@ -5,5 +5,6 @@
 * Lembretes que o notifique quando estiver próximo do horário de algum remédio;
 * Uma espécie de agenda, com lembretes, para anotar as datas de ida e de consultas futuras;
 * A possibilidade de criar perfis para cada animal, em que ele seja capaz de documentar as particularidades de cada um;
+* aaaaaaaaaaaaaa
  
 ![1 1 - Requisitos](https://github.com/Apple-Developer-Residence-IFCE/LoveMyCapibara/assets/56833799/adcda381-cb1e-4929-9fdf-d5c10b373cfa)
